@@ -1,10 +1,10 @@
 {
   "development": {
     "username": "root",
-    "password": null,
+    "password": "zob4hSbUGSAM",
     "database": "sequelize_test_database",
-    "host": "127.0.0.1",
-    "dialect": "mssql"
+    "host": "eksamengrp5.vps.webdock.cloud",
+    "dialect": "mysql"
   },
   "test": {
     "username": "root",
